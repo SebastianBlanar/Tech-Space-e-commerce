@@ -8,7 +8,7 @@ Desarrollado por **Sebastián Blanar**
 
 ## 🌐 Demo
 
-👉 [tech-space.vercel.app](https://tech-space-e-commerce-mruw5o50z.vercel.app/)
+👉 [tech-space.vercel.app](https://tech-space-e-commerce.vercel.app/)
 
 ## 📸 Capturas
 
