@@ -1,0 +1,17 @@
+body {
+  background : #1a0f0f;
+  scroll-behavior: smooth; 
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+}
+
+.carousel-indicators {
+  display: none;
+}
